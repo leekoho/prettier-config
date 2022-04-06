@@ -24,9 +24,9 @@ npm i -D prettier
 
 或者你需要自定义配置，可以在`.prettierrc.js`中使用 require:
 
-```json
+```js
 module.exports = {
-  ...require('@leekoho/prettier-config'),
+  ...require("@leekoho/prettier-config"),
   // ...设置覆盖
-}
+};
 ```
