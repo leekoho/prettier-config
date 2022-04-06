@@ -1,0 +1,15 @@
+{
+  "name": "@leekoho/prettier-config",
+  "version": "1.0.0",
+  "description": "自用的prettier配置",
+  "main": ".prettierrc.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leekoho/pretter-config.git"
+  },
+  "author": "leekoho",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.6.0"
+  }
+}
