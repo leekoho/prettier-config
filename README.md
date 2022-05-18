@@ -18,7 +18,7 @@ npm i -D prettier
 
 ```json
 {
-  "prettier": "@ikscodes/prettier-config"
+  "prettier": "@leekoho/prettier-config"
 }
 ```
 
@@ -26,7 +26,7 @@ npm i -D prettier
 
 ```js
 module.exports = {
-  ...require("@leekoho/prettier-config"),
+  ...require('@leekoho/prettier-config'),
   // ...设置覆盖
 };
 ```
