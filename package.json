@@ -1,6 +1,6 @@
 {
   "name": "@leekoho/prettier-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "自用的prettier配置",
   "main": "index.js",
   "repository": {
