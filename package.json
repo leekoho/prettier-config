@@ -1,6 +1,6 @@
 {
   "name": "@leekoho/prettier-config",
-  "version": "0.0.2",
+  "version": "1.0.1",
   "description": "自用的prettier配置",
   "main": "index.js",
   "repository": {
@@ -8,8 +8,5 @@
     "url": "https://github.com/leekoho/pretter-config.git"
   },
   "author": "leekoho",
-  "license": "MIT",
-  "peerDependencies": {
-    "prettier": "^2.6.0"
-  }
+  "license": "MIT"
 }
